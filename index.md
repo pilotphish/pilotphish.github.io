@@ -2,6 +2,9 @@
 
 We provide application development in Microsoft Access and Excel.
 
+### INSPIRATION
+
+[homelab](https://reddit.com/r/homelab/) 
 
 ### RAPID APPLICATION DEVELOPMENT (RAD)
 
