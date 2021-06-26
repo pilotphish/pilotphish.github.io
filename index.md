@@ -1,17 +1,19 @@
 ## Welcome to Pilotphish, Inc.
 
-We provide application development in Microsoft Access and Excel.
+We provide application development in Microsoft Access and Excel focused on the housing and residential real esate industry.
+
+### REAL ESTATE + INTEL
 
 
 ### INSPIRATION
 
 [Gotham Center for New York History](https://www.gothamcenter.org/about/our-mission)
 
+[New York Public Library - steroscopic photography](http://stereo.nypl.org/)
+
 [homelab](https://reddit.com/r/homelab/) 
 
 ![](/images/helicat.bmp)
-
-
 
 
 ### RAPID APPLICATION DEVELOPMENT (RAD)
