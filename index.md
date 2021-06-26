@@ -1,6 +1,6 @@
 ## Welcome to Pilotphish, Inc.
 
-We provide application development in Microsoft Access, Excel, and R focused on the housing and residential real esate industry.
+We provide application development in Microsoft Access, Excel, and R focused on the housing and residential real estate industry.
 
 
 ### REAL ESTATE + INTEL  [%>%](https://uc-r.github.io/pipe) SUCCESS
