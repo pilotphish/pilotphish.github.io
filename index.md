@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Pilotphish, Inc.
 
-You can use the [editor on GitHub](https://github.com/pilotphish/pilotphish.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We provide application development in Microsoft Access and Excel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Pilotphish
+### RAPID APPLICATION DEVELOPMENT (RAD)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We use Access to build working prototypes that facilate a rapid application development methodology to evolves into a larger program. 
 
 ```markdown
 Syntax highlighted code block
