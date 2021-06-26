@@ -5,7 +5,7 @@ We provide application development in Microsoft Access and Excel.
 
 ### RAPID APPLICATION DEVELOPMENT (RAD)
 
-We use Access to build working prototypes that facilate a rapid application development methodology to evolves into a larger program. 
+We use Access to build working prototypes that facilate a rapid application development methodology to evolve into a larger program. 
 
 ```markdown
 Syntax highlighted code block
