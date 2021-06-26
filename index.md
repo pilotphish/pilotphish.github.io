@@ -2,7 +2,7 @@
 
 We provide application development in Microsoft Access and Excel focused on the housing and residential real esate industry.
 
-###  %>% REAL ESTATE + INTEL %>%
+###  %>%  REAL ESTATE + INTEL  %>%
 
 
 ### INSPIRATION
