@@ -16,6 +16,8 @@ We provide application development in Microsoft Access, Excel, and R focused on 
 
 [New York Public Library - steroscopic photography](http://stereo.nypl.org/)
 
+[IBM Predictive Analytics](https://www.ibm.com/analytics/predictive-analytics)
+
 [homelab](https://reddit.com/r/homelab/) 
 
 ![](/images/helicat.bmp)
