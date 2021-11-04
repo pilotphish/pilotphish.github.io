@@ -8,7 +8,7 @@ We provide application development in Microsoft Access, Excel, and R focused on 
 
 ### INSPIRATION
 
-[Spotlight on Broadway-theaters](http://www.spotlightonbroadway.com/)
+[Spotlight on Broadway-theaters - http://www.spotlightonbroadway.com/theaters](http://www.spotlightonbroadway.com/theaters)
 
 [The Plaza - New York](https://www.theplazany.com/history/)
 
