@@ -6,9 +6,17 @@ We provide application development in Microsoft Access, Excel, and R focused on 
 ### REAL ESTATE + INTEL  [%>%](https://uc-r.github.io/pipe) SUCCESS
 
 
-### INSPIRATION
+### RAPID APPLICATION DEVELOPMENT (RAD)
 
-[Spotlight on Broadway](http://www.spotlightonbroadway.com/)
+We use Access to build working prototypes that facilate a rapid application development methodology to evolve into a larger program. 
+
+[Citizen Skills of the Future - McKinsey Consulting](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/defining-the-skills-citizens-will-need-in-the-future-world-of-work)
+
+[Technology Business Management - Aptio](https://www.apptio.com/blog/what-is-tbm-technology-business-management-explained/)
+
+[Data Architecture Fundamentals - CIO Magazine](https://www.cio.com/article/3588155/what-is-data-architecture-a-framework-for-managing-data.html)
+
+### INSPIRATION
 
 [The Plaza - New York](https://www.theplazany.com/history/)
 
@@ -21,16 +29,4 @@ We provide application development in Microsoft Access, Excel, and R focused on 
 [homelab](https://reddit.com/r/homelab/) 
 
 ![](/images/helicat.bmp)
-
-
-### RAPID APPLICATION DEVELOPMENT (RAD)
-
-We use Access to build working prototypes that facilate a rapid application development methodology to evolve into a larger program. 
-
-[Citizen Skills of the Future - McKinsey Consulting](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/defining-the-skills-citizens-will-need-in-the-future-world-of-work)
-
-[Technology Business Management - Aptio](https://www.apptio.com/blog/what-is-tbm-technology-business-management-explained/)
-
-[Data Architecture Fundamentals - CIO Magazine](https://www.cio.com/article/3588155/what-is-data-architecture-a-framework-for-managing-data.html)
-
 
